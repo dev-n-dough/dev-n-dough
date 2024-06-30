@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Akshat Arora
+# Hi there! 👋 I'm Akshat
 
 ## About Me
 
