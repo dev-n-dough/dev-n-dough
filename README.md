@@ -6,15 +6,13 @@ I'm a second-year Electrical Engineering student at IIT Roorkee, currently resid
 
 ## 🚀 Interests
 
-- **Web3**: Proficient in solidity and basics of blockchain
-- **Web2 Development**: Proficient up to React
-- **Quantitative Finance**: Member of the Finance Club at IIT Roorkee
+- **Web3**: Proficient in Foundry , currently learning auditing
+- **Quantitative Finance**: Ex-member of the Finance Club at IIT Roorkee
 - **Competitive Programming**: Achieved ~1100 rating on Codeforces and ~1500 on CodeChef
 
 ## 🛠️ Skills
 
 - Blockchain and Web3 technologies(Solidity)
-- Web Development (HTML, CSS, JavaScript, React)
 - Competitive Programming
 - Quantitative Finance concepts
 
@@ -24,7 +22,7 @@ I'm a second-year Electrical Engineering student at IIT Roorkee, currently resid
 
 ## 🌱 Current Focus
 
-I'm currently deepening my knowledge in Web3 technologies while continuing to enhance my Web2 development skills. Always excited to learn and contribute to innovative projects!
+I'm currently deepening my knowledge in Web3 technologies , especially auditing. Always excited to learn and contribute to innovative projects!
 
 ## 📫 How to reach me
 
