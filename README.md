@@ -8,7 +8,7 @@ I'm a second-year Electrical Engineering student at IIT Roorkee, currently resid
 
 - **Web3**: Proficient in Foundry , currently learning auditing
 - **Quantitative Finance**: Ex-member of the Finance Club at IIT Roorkee
-- **Competitive Programming**: Achieved ~1100 rating on Codeforces and ~1500 on CodeChef
+- **Competitive Programming**: Achieved ~1000 rating on Codeforces and ~1500 on CodeChef
 
 ## 🛠️ Skills
 
